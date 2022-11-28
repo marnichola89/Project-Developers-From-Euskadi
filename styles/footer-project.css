@@ -1,0 +1,23 @@
+.links-wrapper-footer {
+
+    background-color: rgb(33, 32, 32);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    border: 20px;
+    padding: 0px 0px 60px;
+}
+.links-wrapper-footer > .btn-wapper-footer{
+
+    border: 1px;
+    border-color: rgb(159, 154, 154);
+    border-style:solid;
+    background-color: #3c3c3e;
+    height: 40px;
+    color: white;
+    font-size: 14px;  
+}
+.btn-wapper-footer span {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;   
+}
